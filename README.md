@@ -1,4 +1,8 @@
-TESTE PRÁTICO PROGRAMAÇÃO.
+
+[![Java CI with Maven](https://github.com/raunerlucas/TestePraticoIniflex/actions/workflows/maven.yml/badge.svg)](https://github.com/raunerlucas/TestePraticoIniflex/actions/workflows/maven.yml)
+
+
+##TESTE PRÁTICO PROGRAMAÇÃO.
 
 Considerando que uma indústria possui as pessoas/funcionários abaixo:
 
